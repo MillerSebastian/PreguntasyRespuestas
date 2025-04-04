@@ -19,19 +19,22 @@ preguntas = [
         "opciones": ["En bogota", "En medellin", "En cucuta", "Cachacos"],
         "respuesta_correcta": 4
     },
+
+    # agregadadas las 3 preguntas faltantes
+    # att: Forlan Pri Pra
     {
-        "pregunta": "¿Qué planeta la gente es mas fea?",
-        "opciones": ["Santigo chile", "Peru", "Manuel", "Urano"],
-        "respuesta_correcta": 2
+        "pregunta": "¿Quien fue el responsable de la muerte de Pablo Escobar?",
+        "opciones": ["La Guerrilla de las Farc", "El cartel de Cali", "La DEA", "El bloque de busqueda"],
+        "respuesta_correcta": 4
     },
     {
-        "pregunta": "¿que es riwi?",
-        "opciones": ["Una Priramide?", "Un intensivo bien firme", "Gabriel García Márquez", "otra vez ingles?"],
+        "pregunta": "¿De dónde es el sombrero vueltiao?",
+        "opciones": ["La Guajira", "Magdalena", "Sucre", "Cordoba"],
         "respuesta_correcta": 4
     },
      {
-        "pregunta": "¿Quién es pablo escobar'?",
-        "opciones": ["un perro hpta", "Mi papa", "Mi hombre", "Cule man firme"],
+        "pregunta": "¿Cuál es el río más largo que pasa por Colombia'?",
+        "opciones": ["Cauca", "Sinu", "Amazonas", "Magdalena"],
         "respuesta_correcta": 3
     }
 ]
